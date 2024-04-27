@@ -1,0 +1,5 @@
+name: AntiBreak
+version: '${project.version}'
+folia-supported: true
+main: dev.merciful.antibreak.AntiBreak
+api-version: '1.20'
