@@ -1,4 +1,5 @@
-# AntiBreak
+# AntiBreak 1.20.4
 Lets players break bedrock but stops them from breaking endportals and gateways.
 <h2> Made for paper servers </h2>
-To use go to paper-global.yml and set "allow-permanent-block-break-exploits" to true
+To use go to paper-global.yml and set "allow-permanent-block-break-exploits" to true <br>
+This plugin works on Folia servers 
